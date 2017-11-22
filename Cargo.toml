@@ -1,0 +1,11 @@
+[package]
+name = "error-test-sinks"
+readme = "README.md"
+version = "0.1.0"
+authors = ["Paul Kernfeld <paulkernfeld@gmail.com>"]
+license = "MIT/Apache-2.0"
+documentation = "https://crates.io/crates/error-test-sinks"
+repository = "https://github.com/paulkernfeld/error-test-sinks"
+
+[dependencies]
+futures  = "0.1"
