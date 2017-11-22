@@ -1,5 +1,6 @@
 [package]
 name = "error-test-sinks"
+description = "Sink implementations for testing that simulate different types of errors"
 readme = "README.md"
 version = "0.1.0"
 authors = ["Paul Kernfeld <paulkernfeld@gmail.com>"]
